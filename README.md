@@ -1,2 +1,2 @@
-# Deepak_learning
+# Deep_learning
 Some of the deeplearning projects
